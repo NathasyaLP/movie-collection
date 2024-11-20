@@ -9,7 +9,7 @@ A simple CRUD (Create, Read, Update, Delete) application for managing a movie co
 ## Prerequisites
 - Java 17 or higher
 - MySQL server
-#3 Installation
+## Installation
 1. Clone the repository
 ```language
 git clone https://github.com/NathasyaLP/movie-collection.git
