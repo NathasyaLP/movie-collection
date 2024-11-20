@@ -30,6 +30,15 @@ spring.datasource.password=your_password
 - To update a movie, use the `/movies/update/{id}` endpoint, where {id} is the ID of the movie.
 - To delete a movie, use the `/movies/delete/{id}` endpoint, where {id} is the ID of the movie.
 - To search for movies by title, use the `/movies/search?title=<keyword>` endpoint.
+## Screenshot
+- Movies List
+  ![Movies List Page](https://drive.google.com/uc?export=view&id=1kVRbpx__k6HTjd_5yc4jf4p4cdCuVhaH)
+- Create Movie Form
+  ![Create Movie Form](https://drive.google.com/uc?export=view&id=1AvleoY8q3IxJsQBGpe4wOOXN_GZXXFH6)
+- Update and Delete Movie Form
+  ![Update and Delete Movie Form](https://drive.google.com/uc?export=view&id=1kkl_9d5lqGcYpVWdxmWqfbxs3ahNjoXj)
+- Search Functionality
+  ![Search Functionality](https://drive.google.com/uc?export=view&id=1-eb62Irs8K8En8OB2UbxyWybV8fa0doG)
 ## Technologies Used
 - Java 17
 - Spring Boot
