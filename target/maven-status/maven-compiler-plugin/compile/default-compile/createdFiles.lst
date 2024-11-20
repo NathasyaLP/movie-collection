@@ -1,0 +1,5 @@
+com\example\moviescrud\model\Movie.class
+com\example\moviescrud\controller\MovieController.class
+com\example\moviescrud\MoviesCrudApplication.class
+com\example\moviescrud\repository\MovieRepository.class
+com\example\moviescrud\service\MovieService.class
